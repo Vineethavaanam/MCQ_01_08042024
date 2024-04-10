@@ -1,3 +1,4 @@
+//Q) write a program to print student1 class variable outputs? //
 package com.program;
 
 public class Student1 {
@@ -14,3 +15,7 @@ public class Student1 {
         System.out.println(s1.name);
     }
 }
+//output:
+20
+50.0
+hello world //
