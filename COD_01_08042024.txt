@@ -1,0 +1,16 @@
+package com.program;
+
+public class Student1 {
+    int id=20;
+    float marks=50;
+    String name="hello world";
+
+    public static void main(String args[])
+    {
+
+        Student1 s1 = new Student1();
+        System.out.println(s1.id);
+        System.out.println(s1.marks);
+        System.out.println(s1.name);
+    }
+}
