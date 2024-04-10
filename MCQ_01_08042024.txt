@@ -1,0 +1,18 @@
+1)what are basic concepts in oops?
+1.class   2.object  3.abstraction 4. all of these
+option:4
+2)which is the blue print of object?
+1.abtraction  2.class   3.encapsulation  4.polymorphism
+option:2
+3)which one stores and binds the related data ?
+1. abstraction 2.encapsulation  3.polymorphism  4.none of these
+option:2
+4)what is constructor?
+1.It is a special method of class used for initialisation
+2.It is automatically called
+3.Constructor can not override but can be overloaded
+4.all of these
+option:4
+5)which is used to fetch data from existing object?
+1. Setters  2.Getters   3.Both 1 and 2  4.none of these
+option:2
